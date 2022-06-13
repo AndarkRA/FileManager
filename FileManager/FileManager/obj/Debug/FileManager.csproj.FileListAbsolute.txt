@@ -1,0 +1,11 @@
+C:\GeekBrains\FileManager\FileManager\FileManager\FileManager\bin\Debug\FileManager.exe.config
+C:\GeekBrains\FileManager\FileManager\FileManager\FileManager\bin\Debug\FileManager.exe
+C:\GeekBrains\FileManager\FileManager\FileManager\FileManager\bin\Debug\FileManager.pdb
+C:\GeekBrains\FileManager\FileManager\FileManager\FileManager\obj\Debug\FileManager.csproj.AssemblyReference.cache
+C:\GeekBrains\FileManager\FileManager\FileManager\FileManager\obj\Debug\FileManager.csproj.SuggestedBindingRedirects.cache
+C:\GeekBrains\FileManager\FileManager\FileManager\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+C:\GeekBrains\FileManager\FileManager\FileManager\FileManager\obj\Debug\FileManager.exe
+C:\GeekBrains\FileManager\FileManager\FileManager\FileManager\obj\Debug\FileManager.pdb
+C:\GeekBrains\FileManager\FileManager\FileManager\FileManager\bin\Debug\FileManager.Utils.dll
+C:\GeekBrains\FileManager\FileManager\FileManager\FileManager\bin\Debug\FileManager.Utils.pdb
+C:\GeekBrains\FileManager\FileManager\FileManager\FileManager\obj\Debug\FileManager.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\GeekBrains\FileManager\FileManager\FileManager\FileManager.Utils\bin\Debug\FileManager.Utils.dll
+C:\GeekBrains\FileManager\FileManager\FileManager\FileManager.Utils\bin\Debug\FileManager.Utils.pdb
+C:\GeekBrains\FileManager\FileManager\FileManager\FileManager.Utils\obj\Debug\FileManager.Utils.csproj.AssemblyReference.cache
+C:\GeekBrains\FileManager\FileManager\FileManager\FileManager.Utils\obj\Debug\FileManager.Utils.csproj.CoreCompileInputs.cache
+C:\GeekBrains\FileManager\FileManager\FileManager\FileManager.Utils\obj\Debug\FileManager.Utils.dll
+C:\GeekBrains\FileManager\FileManager\FileManager\FileManager.Utils\obj\Debug\FileManager.Utils.pdb
